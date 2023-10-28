@@ -1,7 +1,7 @@
 /**
  * @file informeventas.c
  * @author Nathaly Silvana Angamarca Angamarca 
- * @brief Emitir un informe de una empresa
+ * @brief Emitir un informe de una Empresa
  * @version 0.1
  * @date 2023-08-25
  *
